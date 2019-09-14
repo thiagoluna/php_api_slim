@@ -2,7 +2,6 @@
 API using Slim Framework
 
 API developed using Slim Framework with libraries installed by composer (JWT, tuupola)
-- 
 
 - Install JWT (https://github.com/firebase/php-jwt)
 composer require firebase/php-jwt
